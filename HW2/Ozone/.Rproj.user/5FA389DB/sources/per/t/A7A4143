@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569763230478.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2733118438",
+    "id" : "A7A4143",
+    "lastKnownWriteTime" : 1569763676,
+    "last_content_update" : 1569763676125,
+    "path" : "~/Supaero/4A/Certificat Big Data/12 09 - 02 10/HW2/Ozone/R/OzoneAnalysis.R",
+    "project_path" : "R/OzoneAnalysis.R",
+    "properties" : {
+        "cursorPosition" : "46,0",
+        "scrollLine" : "16",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

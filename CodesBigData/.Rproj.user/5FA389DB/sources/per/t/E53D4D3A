@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569703491983.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "258218275",
+    "id" : "E53D4D3A",
+    "lastKnownWriteTime" : 1569703643,
+    "last_content_update" : 1569703643961,
+    "path" : "~/Supaero/4A/Certificat Big Data/12 09 - 02 10/CodesBigData/R/CodesBigData.R",
+    "project_path" : "R/CodesBigData.R",
+    "properties" : {
+        "cursorPosition" : "7,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

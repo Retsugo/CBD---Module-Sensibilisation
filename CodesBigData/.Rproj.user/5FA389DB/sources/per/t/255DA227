@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569760398151.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "488885625",
+    "id" : "255DA227",
+    "lastKnownWriteTime" : 1569762616,
+    "last_content_update" : 1569762616618,
+    "path" : "~/Supaero/4A/Certificat Big Data/12 09 - 02 10/CodesBigData/R/SommeVariableAleatoireUniforme.R",
+    "project_path" : "R/SommeVariableAleatoireUniforme.R",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

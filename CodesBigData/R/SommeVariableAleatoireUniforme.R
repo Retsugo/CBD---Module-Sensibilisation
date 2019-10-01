@@ -1,0 +1,10 @@
+source("R/ZERAH.R")
+n<-100000
+X<-rCertificatBigData(n)
+X_mean = eCertificatBigData(X)
+X_sd = vCertificatBigData(X)
+X_quantile = qCertificatBigData(X)
+X_PDF = dCertificatBigData(X)
+X_CDF = pCertificatBigData(X)
+plot(X_CDF)
+plot(X_PDF)
