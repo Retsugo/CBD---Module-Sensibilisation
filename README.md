@@ -8,8 +8,11 @@ Le code des parties 2 et 3 a été récupéré du [tutoriel en R](https://github
 ### Commentaires
 #### 2.2.1 Variables quantitatives
 Les variables maxO3 et maxO3v ont quasiment la même répartion de valeurs, ce qui n'est guère étonnant, car maxO3v est simplement maxO3 retardée d'un jour.
-Dans le cas des nébulosité Ne9 et Ne12, et des concentrations en ozone maxO3 et maxO3v, contrairement aux températures T9, T12 et T15, les médianes des distributions ne peuvent pas être assimilées à leur moyennes. Ces distributions ne sont clairement pas symétriques et ne peuvent pas, en l'état, être modélisée efficacement par des gaussiennes.
+Dans le cas des nébulosité Ne9 et Ne12, et des concentrations en ozone maxO3 et maxO3v, contrairement aux températures T9, T12 et T15, les médianes des distributions ne peuvent pas être assimilées à leur moyennes. Ces distributions ne sont clairement pas symétriques et ne peuvent pas, en l'état, être modélisées efficacement par des gaussiennes.
+#### 2.3.1 Variables quantitatives
+"A l'oeil", les variables très corrélées sont celles dont lees nuages de points adoptent une structure fortement linéaire. Ainsi, les variables de températures T9, T12, T15 sont toutes très corrélées entre elles (ce qui est physiquement très compréhensible), et également avec la concentration en ozone maxO3. par ailleurs, les vitesses du vents sont très corrélées entre elles. Enfin, on remarque, que si les nébulosités ne semblent pas corrélées, les valeurs prisent par les points des nuagent font partie d'un ensemble fini (nombre discret "d'emplacements".
 #### 2.3.2 Variables qualitatives
+
 #### 2.3.3 Variables qualitatives et quantitatives
 #### 3.1.3 Comparaison de deux variances : Fisher
 #### 3.2.1 Comparaison de deux médianes : Wilcoxon
