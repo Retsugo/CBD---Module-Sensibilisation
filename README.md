@@ -6,7 +6,7 @@ Les fonctions demandées sont codées dans le fichier `CBD---Module-Sensibilisat
 ### Code
 Le code des parties 2 et 3 a été récupéré du [tutoriel en R](https://github.com/wikistat/StatElem/blob/master/StatElem-R-Ozone.ipynb).
 ### Commentaires
-#### 2.2.1
+#### 2.2.1 Variables quantitatives
 #### 2.3.2 Variables qualitatives
 #### 2.3.3 Variables qualitatives et quantitatives
 #### 3.1.3 Comparaison de deux variances : Fisher
