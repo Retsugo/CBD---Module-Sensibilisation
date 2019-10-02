@@ -17,7 +17,7 @@ La pluie est globalement plus rare qu'un temps sec, on observe donc une corréla
 La concentration en ozone est globalement plus élevée lorsque le vent vient d'Est ou du Sud, et lorsque le temps est sec. Une corrélation entre précipitations et direction du vent a été établie en 2.3.2. 
 #### 3.1.3 Comparaison de deux variances : Fisher
 Selon les tests de Shapiro-Wilp, il est probable que la distribution des concentrations en ozone lors des jours de pluie ne soit pas gaussienne (p-value > 0.05) et qu'au contraire, la distribution des concentrations en ozone pendant les jours secs soit gaussienne (p-value<0.05 - cela laisse présager du comportement du test de Fisher, présenté ci-après.
-On compare avec le test de Fisher, les variances des deux distributions précédentes, sous l'hypothèse $H_0$ que les deux variances sont égales. La p-value étant supérieur à 0.05, on rejette l'hypothèse $H_0$ et on suppose désormais que les deux distrbution n'ont pas la même variance(le ratio estimé des variances est donné à 0.6986744).
+On compare avec le test de Fisher, les variances des deux distributions précédentes, sous l'hypothèse $H_0$ que les deux variances sont égales. La p-value étant supérieur à 0.05, on rejette l'hypothèse $H_0$ et on suppose désormais que les deux distributions n'ont pas la même variance(le ratio estimé des variances est donné à 0.6986744).
 #### 3.2.1 Comparaison de deux médianes : Wilcoxon
 #### 4.2.1 Cas gaussien : ANOVA - Fisher
 #### 4.2.2 Cas non-paramétrique : Kruskal-Wallis
