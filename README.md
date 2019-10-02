@@ -12,8 +12,9 @@ Dans le cas des nébulosité Ne9 et Ne12, et des concentrations en ozone maxO3 e
 #### 2.3.1 Variables quantitatives
 "A l'oeil", les variables très corrélées sont celles dont lees nuages de points adoptent une structure fortement linéaire. Ainsi, les variables de températures T9, T12, T15 sont toutes très corrélées entre elles (ce qui est physiquement très compréhensible), et également avec la concentration en ozone maxO3. par ailleurs, les vitesses du vents sont très corrélées entre elles. Enfin, on remarque, que si les nébulosités ne semblent pas corrélées, les valeurs prisent par les points des nuagent font partie d'un ensemble fini (nombre discret "d'emplacements".
 #### 2.3.2 Variables qualitatives
-
+La pluie est globalement plus rare qu'un temps sec, on observe donc une corrélation entre la pluie et le vent, car lorsque le vent vient d'Ouest, la proportion de pluie pour une même direction de vent augmente. La pluie semble être apportée par des vents Nord-Ouest-Ouest.
 #### 2.3.3 Variables qualitatives et quantitatives
+
 #### 3.1.3 Comparaison de deux variances : Fisher
 #### 3.2.1 Comparaison de deux médianes : Wilcoxon
 #### 4.2.1 Cas gaussien : ANOVA - Fisher
